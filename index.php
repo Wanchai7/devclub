@@ -218,12 +218,12 @@ function getMajorColor($major)
                 <table class="table table-hover align-middle">
                     <thead>
                         <tr>
-                            <th class="ps-4">ID</th>
-                            <th class="text-center">PROFILE</th>
-                            <th>FULLNAME</th>
-                            <th>CONTACT</th>
-                            <th>MAJOR</th>
-                            <th class="text-center">YEAR</th>
+                            <th class="ps-4">ลำดับที่</th>
+                            <th class="text-center">รูปโปรไฟล์</th>
+                            <th>ชื่อ-นามสกุล</th>
+                            <th>อีเมล</th>
+                            <th>สาขาวิชา</th>
+                            <th class="text-center">ปีการศึกษา</th>
                             <th class="text-center">ACTIONS</th>
                         </tr>
                     </thead>
